@@ -4,7 +4,7 @@ title: ASBO Shows
 description: DIY or DIE
 img: assets/img/asbo_rollgate_stage.jpg
 importance: 1
-category: work
+category: 
 ---
 
 For about 2 years from 2016 to 2018 I organized concerts around NYC under the name ASBO Shows. ASBO stands for "anti-social behaviour ordinance" which was the nickname I picked up while playing rugby in Hackney. Credit to Ric Leichtung of AdHoc shows for being right: "If you're doing this for the money, you're doing it for the wrong reason."
@@ -26,7 +26,7 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
 - [Girl Scout](http://girlscoutsucks.bandcamp.com)
 - [Miracle Sweepstakes](http://miraclesweepstakes.bandcamp.com)
 - [Monk Tamony](http://soundcloud.com/monktamony) 
-- Emanuel Ayvas
+- [Emanuel Ayvas](https://emanuelayvas.bandcamp.com/)
 - [Hot Knives](https://hotknivesworld.bandcamp.com/album/static-bloom-ep)
 - [Rich Girls](https://richgirls1.bandcamp.com/music)
 - [Hopeless Otis](https://hopelessotis.bandcamp.com/music)
@@ -34,12 +34,13 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
 - [Fiction of the Future](https://open.spotify.com/artist/4X78YysBsTkhEOwlM96n07?si=S3xiu1YGTca88MHB7hXHfw)
 - [Indigo King](https://open.spotify.com/artist/4OEdUuGKmHHDbyTg3Ms7D2?si=IfyOPYkySe-834DcSY1bBQ)
 - Stereo Off
-- Randy Scott Carrol
+- [Randy Scott Carrol](https://open.spotify.com/artist/2HmGdTRySp3qRrcFrg8Uo0?si=tQWlO0a-SbGJi5kqH2CPGg)
+  - "Moved to the city of brotherly love and learned how to hate where I come from" on [Born in Ohio](https://open.spotify.com/track/70SfFaVWFh9tqVTGGoFzRh?si=3a110407224f44f9)
 - The Saturators
 - Con Clave
-- Black Alley
+- [Black Alley](https://www.blackalleyband.com/)
 - Freelance
-- Bridget Perez
+- [Bridget Perez](https://www.bridgetperez.com/)
 
 ## Videos
 
