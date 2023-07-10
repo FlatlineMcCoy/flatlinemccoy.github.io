@@ -63,10 +63,10 @@ Low quality phone videos, but you get the idea.
 <div class="container">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets\img\asbo_rollgate_stage.jpg" title="example image" class="img-fluid zoomable z-depth-1" %}
+        {% include figure.html path="assets\img\asbo_rollgate_stage.jpg" title="rollgate_stage" class="img-fluid z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets\img\asbo_rollgate_jafe.jpg" title="example image" class="img-fluid zoomable z-depth-1" %}
+        {% include figure.html path="assets\img\asbo_rollgate_jafe.jpg" title="rollgate_jafe" class="img-fluid z-depth-1" zoomable=true %}
     </div>
 </div>
 </div>
