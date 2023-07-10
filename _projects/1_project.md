@@ -43,30 +43,15 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
 ## Videos
 
 
-
-<div class="container">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/video/RSC-WorktotheBone.mp4" title="Randy Scott Carrol" class="img-fluid z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets\video\TaylorPlas-rooftop.mp4" title="Taylor Plas" class="img-fluid z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets\video\tiides.mp4" title="Tiides" class="img-fluid z-depth-1" %}
-    </div>
-</div>
-</div>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets\video\RSC-WorktotheBone.mp4" class="img-fluid z-depth-1" controls=true %}
+        {% include video.html path="assets/video/RSC-WorktotheBone.mp4" class="img-fluid z-depth-1" controls=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets\video\TaylorPlas-rooftop.mp4" class="img-fluid z-depth-1" controls=true %}
+        {% include video.html path="assets/video/TaylorPlas-rooftop.mp4" class="img-fluid z-depth-1" controls=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets\video\tiides.mp4" class="img-fluid z-depth-1" controls=true %}
+        {% include video.html path="assets/video/tiides.mp4" class="img-fluid z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
@@ -81,7 +66,7 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
         {% include figure.html path="assets/img/asbo_rollgate_stage.jpg" title="rollgate_stage" class="img-fluid z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets\img\asbo_rollgate_jafe.jpg" title="rollgate_jafe" class="img-fluid z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/asbo_rollgate_jafe.jpg" title="rollgate_jafe" class="img-fluid z-depth-1" zoomable=true %}
     </div>
 </div>
 </div>
