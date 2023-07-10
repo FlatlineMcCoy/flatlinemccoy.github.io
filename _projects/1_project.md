@@ -2,7 +2,7 @@
 layout: page
 title: ASBO Shows
 description: DIY or DIE
-img: assets\img\asbo_rollgate_stage.jpg
+img: assets/img/asbo_rollgate_stage.jpg
 importance: 1
 category: work
 ---
@@ -42,7 +42,7 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
 
 ## Videos
 
-Low quality phone videos, but you get the idea.
+
 
 <div class="container">
 <div class="row">
@@ -56,6 +56,21 @@ Low quality phone videos, but you get the idea.
         {% include figure.html path="assets\video\tiides.mp4" title="Tiides" class="img-fluid z-depth-1" %}
     </div>
 </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets\video\RSC-WorktotheBone.mp4" class="img-fluid z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets\video\TaylorPlas-rooftop.mp4" class="img-fluid z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets\video\tiides.mp4" class="img-fluid z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    Low quality phone videos, but you get the idea.
 </div>
 
 ## Pictures
