@@ -104,9 +104,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog # blog_name will be displayed in your blog page
+blog_name: My Writing # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: thoughts and musings
+blog_description: Articles, thoughts, musings, and other things I've written.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -150,8 +150,8 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
-    permalink: /lists/:path/
+    output: false
+    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/

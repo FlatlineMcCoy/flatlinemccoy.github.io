@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: A collection of rants, lists, achievements, musings, music, and other things I find interesting.
 
