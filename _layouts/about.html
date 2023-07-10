@@ -40,10 +40,10 @@ layout: default
             {{ content }}
           </div>
 
-          <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
+          <!-- lists -->
+          {% if page.lists and site.announcements.enabled -%}
             <h2><a href="{{ '/lists/' | relative_url }}" style="color: inherit;">Lists</a></h2>
-            {%- include news.html limit=true %}
+            {%- include lists.html limit=true %}
           {%- endif %}
 
           <!-- Latest posts -->

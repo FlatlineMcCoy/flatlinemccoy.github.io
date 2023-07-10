@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: lists
 title: Music
 inline: false
 related_posts: false

@@ -1,21 +1,21 @@
-<div class="news">
-  {% if site.news != blank -%}
-    {%- assign news_size = site.news | size -%}
+<div class="lists">
+  {% if site.lists != blank -%}
+    {%- assign lists_size = site.lists | size -%}
       <div>
       <!--- replaced table below with an unordered list --->
-      {%- assign news = site.news | reverse -%}
+      {%- assign lists = site.lists | reverse -%}
       {% if include.limit and site.announcements.limit %}
-        {% assign news_limit = site.announcements.limit %}
+        {% assign lists_limit = site.announcements.limit %}
       {% else %}
-        {% assign news_limit = news_size %}
+        {% assign lists_limit = lists_size %}
       {% endif %}
-      {% for item in news limit: news_limit %}
+      {% for item in lists limit: lists_limit %}
         <ul>
           <li>
             {% if item.inline -%}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {%- else -%}
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              <a class="lists-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
             {%- endif %}
           </li>
         </ul>
@@ -24,21 +24,21 @@
 
     <!--- removing table to replace with a list      
 
-    <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
+    <div class="table-responsive" {% if include.limit and site.announcements.scrollable and lists_size > 3 %}style="max-height: 60vw"{% endif %}>
     <table class="table table-sm table-borderless">
-    {%- assign news = site.news | reverse -%}
+    {%- assign lists = site.lists | reverse -%}
     {% if include.limit and site.announcements.limit %}
-    {% assign news_limit = site.announcements.limit %}
+    {% assign lists_limit = site.announcements.limit %}
     {% else %}
-    {% assign news_limit = news_size %}
+    {% assign lists_limit = lists_size %}
     {% endif %}
-    {% for item in news limit: news_limit %}
+    {% for item in lists limit: lists_limit %}
     <tr>
     <td>
     {% if item.inline -%}
     {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
     {%- else -%}
-    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    <a class="lists-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
     {%- endif %}
     </td>
     </tr>
@@ -47,6 +47,6 @@
     </div>
 
     --->{%- else -%}
-    <p>No news so far...</p>
+    <p>No lists so far...</p>
   {%- endif %}
 </div>
