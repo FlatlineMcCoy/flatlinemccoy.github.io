@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
 
-lists: true  # includes a list of lists items
+lists: false  # includes a list of lists items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -25,3 +25,9 @@ social: true  # includes social icons at the bottom of the page
 "Boy, I'm like them huge fuckin' lizards, you know? Had themself two goddam brains, one in the head an' one by the tailbone, kept the hind legs movin'. Hit that black stuff and ol' tailbrain jus' kept right on keepin' on."
       
 \- [Dixie Flatline](https://williamgibson.fandom.com/wiki/Dixie_Flatline)  
+
+## Contents
+- [Lists](./lists)
+- [Writing](./blog)
+- [Projects](./projects)
+- [Contact](tbd)

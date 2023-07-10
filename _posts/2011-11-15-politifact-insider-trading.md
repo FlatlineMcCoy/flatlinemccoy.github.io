@@ -1,29 +1,30 @@
 ---
 layout: post
-title:  Is Congress exempt from insider trading laws? Mostly True
+title:  Is Congress exempt from insider trading laws?
 date: 2011-11-15 21:01:00
-description: A piece I wrote while interning for Politifact
+description: A piece I wrote while interning for Politifact back in undergrad.
 tags: politics, crime
 categories: 
 thumbnail: 
 ---
 
-I wrote this piece while interning at Politifact. It wasn't used, but I think it was good, and afaik the problem with congress hasn't gotten any better.
+#### Claim: Congress is exempt from insider trading laws
+#### Verdict: Mostly True
 
-# Claim: Congress is exempt from insider trading laws 
-### Verdict: Mostly True
+> :memo: *note: I wrote this piece while interning at Politifact. Afaik the problem with congress hasn't gotten any better.*  
 
 On November 13, 2011, 60 Minutes aired a [report](http://www.cbsnews.com/video/watch/?id=7388130n) that investigated Congressional stock trading practices. Peter Schweizer, research fellow at the Hoover Institute and author of _Throw Them All Out,_ spoke with Steve Kroft of CBS about the forms of “honest graft” that members of Congress regularly take part in:
 
-> Schweizer: For example insider trading on the stock market. If you are a member of Congress, those laws are deemed not to apply
->
-> Kroft: So congressmen get a pass on insider trading?
->
-> Schweizer: They do. The fact is, if you sit on a healthcare committee and you know that Medicare, for example, is-- is considering not reimbursing for a certain drug, that's market moving information. And if you can trade stock on-- off of that information and do so legally, that's a great profit making opportunity. And that sort of behavior goes on.
->
-> Kroft: Why does Congress get a pass on this?
->
-> Schweizer: It's really the way the rules have been defined. And the people who make the rules are the political class in Washington. And they've conveniently written them in such a way that they don't apply to themselves.
+> **Schweizer**: For example insider trading on the stock market. If you are a member of Congress, those laws are deemed not to apply
+> <br/>  
+> **Kroft**: So congressmen get a pass on insider trading?
+> <br/>  
+> **Schweizer**: They do. The fact is, if you sit on a healthcare committee and you know that Medicare, for example, is-- is considering not reimbursing for a certain drug, that's market moving information. And if you can trade stock on-- off of that information and do so legally, that's a great profit making opportunity. And that sort of behavior goes on.
+> <br/>  
+> **Kroft**: Why does Congress get a pass on this?
+> <br/>  
+> **Schweizer**: It's really the way the rules have been defined. And the people who make the rules are the political class in Washington. And they've conveniently written them in such a way that they don't apply to themselves.
+
 
 Schweizer’s reference to health care was no accident. In the midst of the 2003 health care debate, Senators John Kerry and John Boehner both purchased significant quantities of healthcare and pharmaceutical stocks which greatly increased in value when the provisions of the new health care law were finalized. Schweizer’s book also mentions an incident in 2008 involving Sen. Spencer Bachus, then ranking member of the House Financial Services Committee. On September 18, 2008, Bachus attended a private briefing from Ben Bernanke and Hank Paulson regarding the possibility of a meltdown in the global financial system. The next day, Bachus bought $7,846 worth of options betting that the market would fall. By September 23<sup>rd</sup>, Bachus sold the options for over $13,000 and essentially doubled his money. 
 
@@ -54,9 +55,12 @@ Sources 
 1. CBS 60 Minutes, “Insiders,” Nov. 13, 2011. <http://www.cbsnews.com/video/watch/?id=7388130n> 
 Producers: Ira Rosen and Gabrielle Schonder. Correspondent: Steve Croft
 
-2. Alan J Zibrowski, et al. Journal of Financial and Quantitative Analysis, “Abnormal Returns from the Common Stock Investments of the U.S. Senate,” December 2004.
+1. Alan J Zibrowski, et al. Journal of Financial and Quantitative Analysis, “Abnormal Returns from the Common Stock Investments of the U.S. Senate,” December 2004.
    
-3. Stephen M. Bainbridge. UCLA School of Law, Law-Econ Research Paper No.10-08, “Insider Trading Inside the Beltway,” June 30, 2010.
-4. (Thomas Newkirk comments) Peter Lattman, WSJ Law Blog, “Bill Looks to Ban Insider Trading for Lawmakers and Their Aides,” Mar. 28, 2006. <http://blogs.wsj.com/law/2006/03/28/bill-looks-to-ban-insider-trading-for-lawmakers-and-their-aides/> 
-5. Donna M. Nagy. Boston University Law Review, “Insider Trading, Congressional Officials, and Duties of Entrustment,” May 5, 2011
-6. Paul Davidson. USA Today, “SEC Launches formal investigation of First,” Sept. 9, 2005.
+2. Stephen M. Bainbridge. UCLA School of Law, Law-Econ Research Paper No.10-08, “Insider Trading Inside the Beltway,” June 30, 2010.
+
+3. (Thomas Newkirk comments) Peter Lattman, WSJ Law Blog, “Bill Looks to Ban Insider Trading for Lawmakers and Their Aides,” Mar. 28, 2006. <http://blogs.wsj.com/law/2006/03/28/bill-looks-to-ban-insider-trading-for-lawmakers-and-their-aides/> 
+
+4. Donna M. Nagy. Boston University Law Review, “Insider Trading, Congressional Officials, and Duties of Entrustment,” May 5, 2011
+
+5. Paul Davidson. USA Today, “SEC Launches formal investigation of First,” Sept. 9, 2005.
