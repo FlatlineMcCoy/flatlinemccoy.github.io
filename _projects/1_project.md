@@ -34,6 +34,7 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
 - [Fiction of the Future](https://open.spotify.com/artist/4X78YysBsTkhEOwlM96n07?si=S3xiu1YGTca88MHB7hXHfw)
 - [Indigo King](https://open.spotify.com/artist/4OEdUuGKmHHDbyTg3Ms7D2?si=IfyOPYkySe-834DcSY1bBQ)
 - Stereo Off
+- Randy Scott Carrol
 - The Saturators
 - Con Clave
 - Black Alley
@@ -46,13 +47,13 @@ test update
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/RSC-WorktotheBone.mp4" class="img-fluid z-depth-1" controls=true %}
+        {% include video.html path="assets/video/RSC-Work-to-the-Bone.webm" class="img-fluid z-depth-1" controls=true title="Randy Scott Carrol" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/TaylorPlas-rooftop.mp4" class="img-fluid z-depth-1" controls=true %}
+        {% include video.html path="assets/video/TaylorPlas-rooftop.mp4" class="img-fluid z-depth-1" controls=true title="Taylor Plas" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/tiides.mp4" class="img-fluid z-depth-1" controls=true %}
+        {% include video.html path="assets/video/tiides.mp4" class="img-fluid z-depth-1" controls=true title="Tiides" %}
     </div>
 </div>
 <div class="caption">
