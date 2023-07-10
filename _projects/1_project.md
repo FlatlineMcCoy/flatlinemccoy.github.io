@@ -41,6 +41,9 @@ For about 2 years from 2016 to 2018 I organized concerts around NYC under the na
 - Bridget Perez
 
 ## Videos
+
+Low quality phone videos, but you get the idea.
+
 <div class="container">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
