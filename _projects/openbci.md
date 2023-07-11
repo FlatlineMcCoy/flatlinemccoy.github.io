@@ -7,11 +7,13 @@ importance: 2
 category: 
 ---
 
+{% include gallery.html folder='assets/img/gallery/' %}
+
+
 ## Highlights
 - Hosted Panel w/ Nanea Reeves, Amy Kruse, and Mark Billinghurst - [recording](https://www.youtube.com/watch?v=rpc4LRwEbNM)
 - Signed partnership with [Valve & Gabe Newell](https://www.1news.co.nz/2021/01/25/gabe-newell-says-brain-computer-interface-tech-will-allow-video-games-far-beyond-what-human-meat-peripherals-can-comprehend/)
 - will add more here later
-
 
 ## Press Coverage
 - [CNET](https://www.cnet.com/tech/computing/i-wore-the-future-of-brain-connected-arvr/)

@@ -38,6 +38,13 @@ repo_trophies:
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
+# Image Gallery https://dmnfarrell.github.io/software/jekyll-galleries
+# -----------------------------------------------------------------------------
+
+imagesurl: "/assets/img/gallery"
+thumbsurl: "/assets/img/gallery-thumbs/"
+
+# -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
