@@ -7,6 +7,9 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
+  {% include scripts/jquery.html %}
+  {% include scripts/bootstrap.html %}
+  {% include scripts/lightbox.html %}
   </head>
 
   <!-- Body -->
@@ -50,9 +53,6 @@
     {%- include footer.html %}
 
     <!-- JavaScripts -->
-    {% include scripts/jquery.html %}
-    {% include scripts/bootstrap.html %}
-    {% include scripts/lightbox.html %}
     {% include scripts/masonry.html %}
     {% include scripts/misc.html %}
     {% include scripts/badges.html %}
