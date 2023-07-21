@@ -80,11 +80,15 @@ thing."
 As a ROM, Dixie can't form new memories. The construct knows what it is, "a hardwired ROM cassette replicating a dead man's skills, ob-
 sessions, kneejerk responses" but not able to "write a poem" or understand whether it's truly alive or not. Faced with the prospect of continuing this simulacrum of sentience, or the unknown of deletion, Dixie (the ROM not the man) chooses deletion. In both *Neuromancer* and *Lena*, digitally copied immortality aint all that it's cracked up to be.
 
-### Lena 
+### Lena vs. Lenna
 
 The title of qtnm's short story “Lena” comes from the real-world controversy surrounding Swedish model Lena Forsén’s November 1972 Playboy centerfold. A safe-for-work cropped version of Forsen’s centerfold was used by USC researchers in 1973 as a test image for their work. Since then, this [“Lenna”](https://en.wikipedia.org/wiki/Lenna) facsimile became the de-facto standard test image used for decades in the field of digital image processing. 
 
 WIRED dubbed Lena “[The Patron Saint of JPEGS](https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/)” and Forsén was a guest at the 50th annual Conference of the Society for Imaging Science and Technology (IS&T) in 1997. In 2015, Lena Forsén was also guest of honor at the banquet of IEEE ICIP 2015. After delivering a speech, she chaired the best paper award ceremony.
+
+<div>
+      <a class="image" href="https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png" data-lightbox="Lenna"><img class="image" src="https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png" alt="Lenna-test-image"/></a>
+</div>
 
 The image's reach was limited in the 1970s and 80s, which is reflected in it initially only appearing in .org domains. But in July 1991, the image featured on the cover of Optical Engineering alongside Peppers, another popular test image. This drew the attention of Playboy to the potential copyright infringement. The peak of image hits on the internet was in 1995. The scan became one of the most used images in computer history.[16] The use of the photo in electronic imaging has been described as "clearly one of the most important events in [its] history". The image spread to over 100 different domains, particularly .com and .edu.
 
