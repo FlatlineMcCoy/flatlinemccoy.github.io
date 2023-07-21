@@ -1,67 +1,57 @@
 ---
 layout: post
-title:  Android Brains in Jars
+title:  Android BrainJars Dream of Deletion
 date: 2023-07-21 08:01:00
 description: Rabbit hole I went down while looking at Fruit Fly brains
-tags: neuroscience, fiction, sci-fi
+tags: neuroscience, fiction, sci-fi, neuromancer, lena
 categories: 
 thumbnail: 
 ---
 
-{% include video.html path="assets/video/flybrain-2023-short.mp4" class="img-fluid z-depth-1" controls=true %} The entire connectome of a female Drosophila
+{% include video.html path="assets/video/flybrain-2023-short.mp4" class="img-fluid z-depth-1" controls=true loop=true caption="The entire connectome of a female Drosophila" %} 
 
-{% include video.html path="assets/video/flybrain-eyes.mp4" class="img-fluid z-depth-1" controls=true %}
+For the first time, humanity has a map of the entire fruit fly brain.:brain::world_map::fly:
 
-> :memo: *note: I wrote this piece while interning at Politifact. Afaik the problem with congress hasn't gotten any better.*  
+Last month, I read about the [FlyWire](flywire.ai) consortium releasing the ENTIRE whole-brain connectome of an adult female fruit fly.
 
-On November 13, 2011, 60 Minutes aired a [report](http://www.cbsnews.com/video/watch/?id=7388130n) that investigated Congressional stock trading practices. Peter Schweizer, research fellow at the Hoover Institute and author of _Throw Them All Out,_ spoke with Steve Kroft of CBS about the forms of “honest graft” that members of Congress regularly take part in:
+- 120,000+ Neurons
+- 30,000,000+ Synapses
+- 100,000+ Annotations
 
-> **Schweizer**: For example insider trading on the stock market. If you are a member of Congress, those laws are deemed not to apply
-> <br/>  
-> **Kroft**: So congressmen get a pass on insider trading?
-> <br/>  
-> **Schweizer**: They do. The fact is, if you sit on a healthcare committee and you know that Medicare, for example, is-- is considering not reimbursing for a certain drug, that's market moving information. And if you can trade stock on-- off of that information and do so legally, that's a great profit making opportunity. And that sort of behavior goes on.
-> <br/>  
-> **Kroft**: Why does Congress get a pass on this?
-> <br/>  
-> **Schweizer**: It's really the way the rules have been defined. And the people who make the rules are the political class in Washington. And they've conveniently written them in such a way that they don't apply to themselves.
+A connectome is a comprehensive map of neural connections in the brain, and may be thought of as its "wiring diagram." The fruit fly is one commonly used model organisms in neuroscience and biology research. It's in the superstar pantheon of scientific model organisms, along with the mouse, zebrafish, and nematode worm. Drosophila has a smaller brain vs. mammals but can still form memories, learn, and engage in complex social behavior. Hence findings from studies in fruit flies' brains can often be applied to other animals, including humans. 
+
+The story of FlyWire's creation is an interesting one, combining gamification, AI, and crowdsourced science. First, the brain was sectioned and imaged with an electron microscope, then AI took the first pass at identifying the 120k+ individual neurons and 30m+ individual connections. However, the AI's output wasn't perfect. Certain synapses were incorrectly linked, or grouped with incorrect neurons. Human annotation was needed, but the scale was immense. So researchers created a [game-like interface](http://edit.flywire.ai) for crowdsourcing edits and annotations to the initial AI output. "Players" search for the right pieces and put together beautiful 3D neurons that advance science's understanding of brain circuits.
+
+{% include video.html path="assets/video/flybrain-eyes.mp4" class="img-fluid z-depth-1" controls=true caption="All neurons and synapses of the fly's eye" %}
+
+The end result is a masterpiece in crowdsourced science. The potential benefits of such a resource are immense - we can now make significant advances in our understanding of how the brain works by ultimately linking neuronal wiring with brain function. Personally, I find the images and videos that came out of it are quite beautiful in their own right. 
+
+I came across the FlyWire project during my daily browsing of HackerNews. Anytime I see something vaguely relevant for my work at [OpenBCI](https://openbci.com) that has broken through to more "mainstream" tech audiences like HackerNews, I make a note and usually end up adding it to our social media pipeline. This time, down in the comments section there was a link to a short story called [Lena by qtnm](https://qntm.org/mmacevedo). Basically, *Lena* is about what happens when we do to the human brain, what FlyWire has done to the fruit fly. 
+
+It's written in the style of a wikipedia article from the future on the topic of **MMAcevedo** also known as Miguel, the earliest executable image of a human brain. A brain-in-an-exe copy of Miguel Acevedo Álvarez which heralded the dawn of the "workloading" industry, where virtual machines running virtual humans could be spun up to do the work of thousands of humans. The story came out in Jan 2021, long before the ChatGPT hypetrain left the station and generated a corresponding tsunami of white-collared existential dread. This style of anthropological or encyclopedic world-building has always interested me. When it's done well, it shows the author had gone a level deeper into the world they're building, and it makes the story that much more believable. Ursula K. LeGuin's *Haimish* works are the best example of this that I've come across. 
+
+The story is a quick read, full excellent quotes. Pulling out a few here:
+
+>  In 2049 it became known that MMAcevedo was being widely shared and experimented upon without Acevedo's permission. Acevedo's attempts to curtail this proliferation had the opposite of the intended effect. A series of landmark U.S. court decisions found that Acevedo did not have the right to control how his brain image was used, with the result that MMAcevedo is now by far the most widely distributed, frequently copied, and closely analysed human brain image.
+
+>Acevedo died from coronary heart failure in 2073 at the age of 62. It is estimated that copies of MMAcevedo have lived a combined total of more than 152,000,000,000 subjective years in emulation. If illicit, modified copies of MMAcevedo are counted, this figure increases by an order of magnitude.
+
+>As the earliest viable brain scan, MMAcevedo is one of a very small number of brain scans to have been recorded before widespread understanding of the hazards of uploading and emulation. MMAcevedo not only predates all industrial scale virtual image workloading but also the KES case, the Whitney case, the Seafront Experiments and even Poulsen's pivotal and prescient Warnings paper. Though speculative fiction on the topic of uploading existed at the time of the MMAcevedo scan, relatively little of it made accurate exploration of the possibilities of the technology. That fiction which did was far less widely-known than it is today and Acevedo was certainly not familiar with it at the time of his uploading.
+
+>As such, unlike the vast majority of emulated humans, the emulated Miguel Acevedo boots with an excited, pleasant demeanour. He is eager to understand how much time has passed since his uploading, what context he is being emulated in, and what task or experiment he is to participate in. 
+><p>...</p>
+>MMAcevedo's demeanour and attitude contrast starkly with those of nearly all other uploads taken of modern adult humans, most of which boot into a state of disorientation which is quickly replaced by terror and extreme panic. Standard procedures for securing the upload's cooperation such as red-washing, blue-washing, and use of the Objective Statement Protocols are unnecessary.
+
+A few lines stood out to me and sparked a connection to another famous work of neurosci-fi, William Gibson's *[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer).*
+
+>MMAcevedo is considered by some to be the "first immortal", and by others to be a profound warning of the horrors of immortality.
+><p>...</p>
+>The biological Acevedo was initially extremely protective of his uploaded image and guarded its usage carefully. Towards the end of his life, as it became possible to run simulated humans in banks of millions at hundred-fold time compression, Acevedo indicated that being uploaded had been the greatest mistake of his life, and **expressed a wish to permanently delete all copies of MMAcevedo.**
+
+This last line, and the idea of digital brain-scan immortality is what made me start thinking of Neuromancer. One of my favorite characters in Gibson's novel is the digital ghost of the legendary hacker McCoy Pauley, aka the Dixie Flatline. Pauley was a legendary hacker who died of a brain aneurysm while attempting to crack an AI. His brain was scanned and his consciousness was uploaded into a ROM construct, which was then used as a hacking tool by Case, the protagonist of the novel.
+
+**SPOILER ALERT**<br/>
+Towards the end of the book, 
 
 
-Schweizer’s reference to health care was no accident. In the midst of the 2003 health care debate, Senators John Kerry and John Boehner both purchased significant quantities of healthcare and pharmaceutical stocks which greatly increased in value when the provisions of the new health care law were finalized. Schweizer’s book also mentions an incident in 2008 involving Sen. Spencer Bachus, then ranking member of the House Financial Services Committee. On September 18, 2008, Bachus attended a private briefing from Ben Bernanke and Hank Paulson regarding the possibility of a meltdown in the global financial system. The next day, Bachus bought $7,846 worth of options betting that the market would fall. By September 23<sup>rd</sup>, Bachus sold the options for over $13,000 and essentially doubled his money. 
 
-Members of Congress appear to consistently make these well-timed decisions. A 2004 [study](http://insidertrading.procon.org/sourcefiles/abnormalreturnsziobrowski.pdf) by economist Alan Zibrowski et al. finds that from 1993-1998 the stock portfolios of U.S. Senators outperformed the market by 12.3% annually, a rate nearly double that of corporate insiders and well ahead of the average household which fell short of the market by 1.5%. Zibrowski concludes that “it seems clear that Senators have demonstrated a definite informational advantage over other investors” and that “these results suggest that Senators knew appropriate times to both buy and sell their common stocks.”
-
-Despite the fact that Senators like Kerry and Boehner deny making trades based on non-public information, the 60 Minutes piece reports that under the current law it is actually legal for them to do so and Zibrowski’s paper demonstrates the tantalizing incentives to do so. Is it truly the case that Congressmen are exempt from the insider trading laws that govern the rest of the country? 
-
-To answer this question, we begin with the definition of insider trading provided on the Securities and Exchange Commission website. “Illegal insider trading refers generally to buying or selling a security, in breach of a fiduciary duty or other relationship of trust and confidence, while in possession of material, nonpublic information about the security. Insider trading violations may also include "tipping" such information, securities trading by the person "tipped," and securities trading by those who misappropriate such information.” 
-
-So in order to convict a person of insider trading, the SEC must prove not only that the individual was in possession of non-public information, but that their use of that information violated a duty of confidentiality towards either the company being traded or the source of the information. 
-
-Stephen Bainbridge, law professor at UCLA, believes that there is no interpretation of the current law which establishes this duty of confidentiality for members of Congress. In his most recent [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1633123) on the subject, “Insider Trading Inside the Beltway,” Bainbridge concludes that for “members of Congress…current law provides a strong argument that their trading cannot be punished under either the classical ‘disclose or abstain’ or the misappropriation theory.”
-
-This is a sentiment echoed by Thomas Newkirk, a partner with law firm Jenner & Block and a former official with the SEC’s enforcement division. In 2006 Newkirk explained to the [Wall Street Journal](http://blogs.wsj.com/law/2006/03/28/bill-looks-to-ban-insider-trading-for-lawmakers-and-their-aides/) that “if a congressman learns that his committee is about to do something that would affect a company, he can go trade on that because he is not obligated to keep that information confidential. He is not breaching a duty of confidentiality to anybody and therefore he would not be liable for insider trading.”
-
-A dissenting opinion has been offered by Indiana University law professor Donna Nagy, who believes that Congress and legislative staffers are not immune from current insider trading law. In her [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1750308), Nagy argues that members of Congress are “public fiduciaries who owe duties of trust and confidence to a host parties” including Congress itself and the citizen investors who make up their constituency. She believes that “nonpublic congressional information constitutes property which, like congressional funds and tangible property, rightfully belongs to the federal government and its citizens.” Under Nagy’s interpretation, when a Congressman uses non-public information to make trading decisions, they are violating their duty to the citizen they represent and are illegally using federal property for personal gain.
-
-Although this interpretation may be valid, Nagy herself admits that it is contrary to the conventional wisdom of other academics, journalists and government officials who have commented on the issue. The SEC has done little to challenge this conventional view although its actions shed some light on the issue. In 2005 an [investigation](http://www.usatoday.com/news/washington/2005-09-29-frist-usat_x.htm) of Senate Majority Leader Bill First for insider trading was opened, but charges were never brought. In fact, the SEC has never prosecuted a member of the House or Senate for insider trading. The failure of the investigation suggests that the current law’s ambiguity—not Congressional immunity—prevents prosecutors from building an effective case. The fact that Congress controls the budgetary appropriations for the SEC no doubt also lowers the likelihood of prosecution. 
-
-The shortcomings of the current law have not gone unnoticed by members of Congress. In 2006 Reps. Brian Baird and Louise Slaughter introduced the Stop Trading on Congressional Knowledge Act. The STOCK Act aims to prohibit Members and employees of Congress from profiting from nonpublic information they obtain in their official positions. Until the 60 Minutes piece aired, the STOCK Act had been repeatedly allowed to die in committee and never managed to gain more than 10 cosponsors. In the 5 days following the 60 Minutes piece the act received an additional 84 House sponsors. 
-
-**Verdict: Mostly True**
-
-The possibility of alternative interpretations and the fact that the SEC at least investigated Senators in the past suggests that Congress members are not entirely exempt under current insider trading law. However, the difficulty in determining to whom Congress owes its fiduciary and confidential duties has prevented prosecution and opened the door for the types of questionable trading practices covered in the 60 Minutes piece and in Schweizer’s book. 
-
-Sources 
-
-1. CBS 60 Minutes, “Insiders,” Nov. 13, 2011. <http://www.cbsnews.com/video/watch/?id=7388130n> 
-Producers: Ira Rosen and Gabrielle Schonder. Correspondent: Steve Croft
-
-1. Alan J Zibrowski, et al. Journal of Financial and Quantitative Analysis, “Abnormal Returns from the Common Stock Investments of the U.S. Senate,” December 2004.
-   
-2. Stephen M. Bainbridge. UCLA School of Law, Law-Econ Research Paper No.10-08, “Insider Trading Inside the Beltway,” June 30, 2010.
-
-3. (Thomas Newkirk comments) Peter Lattman, WSJ Law Blog, “Bill Looks to Ban Insider Trading for Lawmakers and Their Aides,” Mar. 28, 2006. <http://blogs.wsj.com/law/2006/03/28/bill-looks-to-ban-insider-trading-for-lawmakers-and-their-aides/> 
-
-4. Donna M. Nagy. Boston University Law Review, “Insider Trading, Congressional Officials, and Duties of Entrustment,” May 5, 2011
-
-5. Paul Davidson. USA Today, “SEC Launches formal investigation of First,” Sept. 9, 2005.

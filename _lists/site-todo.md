@@ -12,4 +12,6 @@ Things I want to add to this site
 2. list of books
 3. list of movies
 4. some way to organize and display my browser bookmarks, with nested heirarchy of folders
-5. figure out the "SystemStackError" that happens when local server is runnning w/ livereload and it gets to the jekyll feed step.
+5. ~~figure out the "SystemStackError" that happens when local server is runnning w/ livereload and it gets to the jekyll feed step.~~
+   1. uninstall and reinstall of ruby fixed this
+   
