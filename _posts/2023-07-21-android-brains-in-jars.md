@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  Android Brain-in-Jars Dream of Deletion
-date: 2023-07-21 08:01:00
-description: Rabbit hole I went down while looking at Fruit Fly brains
+title: Vat Brains Dream of Deletion
+description: Rabbit hole I went down while looking at fruit fly brains
 tags: neuroscience, fiction, sci-fi, neuromancer, lena
 categories: 
 thumbnail: 
@@ -86,11 +85,34 @@ The title of qtnm's short story “Lena” comes from the real-world controversy
 
 WIRED dubbed Lena “[The Patron Saint of JPEGS](https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/)” and Forsén was a guest at the 50th annual Conference of the Society for Imaging Science and Technology (IS&T) in 1997. In 2015, Lena Forsén was also guest of honor at the banquet of IEEE ICIP 2015. After delivering a speech, she chaired the best paper award ceremony.
 
-<div>
-      <a class="image" href="https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png" data-lightbox="Lenna"><img class="image" src="https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png" alt="Lenna-test-image"/></a>
+
+Test 2
+
+<div class="row">
+      <div class="col-sm mt-3">
+            <a  href="{{ site.url }}/assets/img/Lenna_Test-Img_1973.png" 
+                  data-lightbox="lena-1" 
+                  data-title="Lenna the Test Image">
+            <img 
+                  src="{{ site.url }}/assets/img/Lenna_Test-Img_1973.png" 
+                  class="img-fluid"
+            />
+            </a>
+      </div>
+      <div class="col-sm mt-3">
+            <a  href="{{ site.url }}/assets/img/Lena04.webp" 
+                  data-lightbox="lena-1" 
+                  data-title="Lena Herself">
+            <img 
+                  src="{{ site.url }}/assets/img/Lena04.webp" 
+                  class="img-fluid"
+            />
+            </a>
+      </div>
 </div>
 
-The image's reach was limited in the 1970s and 80s, which is reflected in it initially only appearing in .org domains. But in July 1991, the image featured on the cover of Optical Engineering alongside Peppers, another popular test image. This drew the attention of Playboy to the potential copyright infringement. The peak of image hits on the internet was in 1995. The scan became one of the most used images in computer history.[16] The use of the photo in electronic imaging has been described as "clearly one of the most important events in [its] history". The image spread to over 100 different domains, particularly .com and .edu.
+
+The image's reach was limited in the 1970s and 80s, which is reflected in it initially only appearing in .org domains. But in July 1991, the image featured on the cover of Optical Engineering alongside Peppers, another popular test image. This drew the attention of Playboy to the potential copyright infringement. The peak of image hits on the internet was in 1995. The scan became one of the most used images in computer history. The use of the photo in electronic imaging has been described as "clearly one of the most important events in history". The image spread to over 100 different domains, particularly .com and .edu.
 
 Lenna is so widely accepted in the image processing community that while Playboy often cracks down on illegal uses of its material and did initially send a notice to the publisher of Optical Engineering about its unauthorized use in that publication, over time it has decided to overlook the wide use of Lena. Eileen Kent, VP of new media at Playboy, said, "We decided we should exploit this, because it is a phenomenon."
 
