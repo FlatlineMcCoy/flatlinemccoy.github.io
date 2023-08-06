@@ -90,21 +90,21 @@ Test 2
 
 <div class="row">
       <div class="col-sm mt-3">
-            <a  href="{{ assets/img/Lenna_Test-Img_1973.png | relative_url}}" 
+            <a  href="{{ "assets/img/Lenna_Test-Img_1973.png" | relative_url }}" 
                   data-lightbox="lena-1" 
                   data-title="Lenna the Test Image">
             <img 
-                  src="{{ assets/img/Lenna_Test-Img_1973.png | relative_url}}" 
+                  src="{{ "assets/img/Lenna_Test-Img_1973.png" | relative_url }}" 
                   class="img-fluid"
             />
             </a>
       </div>
       <div class="col-sm mt-3">
-            <a  href="{{ assets/img/Lena04.webp | relative_url}}"
+            <a  href="{{ "assets/img/Lena04.webp" | relative_url }}"
                   data-lightbox="lena-1" 
                   data-title="Lena Herself">
             <img 
-                  src="{{ assets/img/Lena04.webp | relative_url}}"
+                  src="{{ "assets/img/Lena04.webp" | relative_url }}"
                   class="img-fluid"
             />
             </a>
