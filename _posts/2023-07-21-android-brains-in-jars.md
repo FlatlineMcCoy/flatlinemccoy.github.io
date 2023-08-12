@@ -85,9 +85,6 @@ The title of qtnm's short story “Lena” comes from the real-world controversy
 
 WIRED dubbed Lena “[The Patron Saint of JPEGS](https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/)” and Forsén was a guest at the 50th annual Conference of the Society for Imaging Science and Technology (IS&T) in 1997. In 2015, Lena Forsén was also guest of honor at the banquet of IEEE ICIP 2015. After delivering a speech, she chaired the best paper award ceremony.
 
-
-Test 2
-
 <div class="row">
       <div class="col-sm mt-3">
             <a  href="{{ "assets/img/Lenna_Test-Img_1973.png" | relative_url }}" 
@@ -110,7 +107,6 @@ Test 2
             </a>
       </div>
 </div>
-
 
 The image's reach was limited in the 1970s and 80s, which is reflected in it initially only appearing in .org domains. But in July 1991, the image featured on the cover of Optical Engineering alongside Peppers, another popular test image. This drew the attention of Playboy to the potential copyright infringement. The peak of image hits on the internet was in 1995. The scan became one of the most used images in computer history. The use of the photo in electronic imaging has been described as "clearly one of the most important events in history". The image spread to over 100 different domains, particularly .com and .edu.
 
